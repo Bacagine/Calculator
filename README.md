@@ -1,4 +1,4 @@
-# Gui-Calculator-using-C
+# Calculator
 This program is basically a simple calculator with a nice graphical user interface which is easily understood. I used the C programming language along with the gtk3 library 
 
 
